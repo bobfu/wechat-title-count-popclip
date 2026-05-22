@@ -33,9 +33,26 @@
 
 ## 安装
 
-1. 下载或克隆这个仓库。
-2. 双击 `WeChatTitleCount.popclipext` 安装到 PopClip。
-3. 在任意文本中选中标题，PopClip 会显示类似 `WeChat 64/64 (0 left)` 的结果。
+### 普通用户
+
+1. 打开仓库页面：[bobfu/wechat-title-count-popclip](https://github.com/bobfu/wechat-title-count-popclip)
+2. 点击绿色的 `Code` 按钮。
+3. 点击 `Download ZIP`。
+4. 解压下载的 ZIP 文件。
+5. 双击 `WeChatTitleCount.popclipext` 安装到 PopClip。
+6. 在任意文本中选中标题，PopClip 会显示类似 `WeChat 64/64 (0 left)` 的结果。
+
+插件目录直达链接：
+
+[WeChatTitleCount.popclipext](https://github.com/bobfu/wechat-title-count-popclip/tree/main/WeChatTitleCount.popclipext)
+
+### 开发者
+
+```bash
+git clone https://github.com/bobfu/wechat-title-count-popclip.git
+```
+
+然后双击 `WeChatTitleCount.popclipext` 安装。
 
 ## 插件行为
 
